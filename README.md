@@ -2,6 +2,8 @@
 
 **Procedural Soundscape** is a standalone browser-based generative music system inspired by the atmospheric electronic score of *Blade Runner*.
 
+![logo](procedural.png)
+
 It uses the **Web Audio API** to continuously generate an evolving musical environment rather than playing back a fixed composition. Musical material is derived from a supplied MIDI source and transformed into motifs, melodies, bass figures, ostinatos, rhythmic patterns, drones, and other layers.
 
 The result is intended to feel like an **infinite, continuously evolving score** rather than a conventional song.
@@ -389,13 +391,16 @@ A local HTTP server is recommended rather than opening the HTML file directly, p
 
 The sample directory should be available relative to the HTML file:
 
+```
 /
-├── Infinite_Blade_Runner_Score.html
+├── proceduralSoundScape.html
 └── samples/
     ├── samples.json
     ├── sample1.mp3
     ├── sample2.mp3
     └── ...
+```
+
 Concept
 
 The goal of the project is not to reproduce a particular Blade Runner track.
