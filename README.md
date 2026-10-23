@@ -420,3 +420,6 @@ Chromatic tension
 Gradual musical evolution
 
 The combination of musical memory, scene structure, MIDI-derived vocabulary, harmonic constraints, probabilistic generation, and long-form chapters allows the program to continually produce new music while retaining a coherent musical identity.
+
+
+Sound samples were taken from the NASA site of the Apollo flight and cut into interested sound nibbles.
